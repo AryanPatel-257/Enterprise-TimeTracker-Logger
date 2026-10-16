@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sessions>
+  <Day date="2025-09-22">
+    <DayStart id="1" time="10:15:59" emailSentHost1="true" emailSentHost2="true" />
+    <BreakStart id="1" time="13:08:01" emailSentHost1="true" emailSentHost2="true" />
+    <BreakEnd id="1" time="15:15:54" emailSentHost1="true" emailSentHost2="true" />
+  </Day>
+</Sessions>
